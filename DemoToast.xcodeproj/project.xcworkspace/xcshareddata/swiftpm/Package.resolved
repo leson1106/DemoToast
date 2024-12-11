@@ -1,0 +1,15 @@
+{
+  "originHash" : "34b61f7289910bac7722e075e34d5ccad8719373bdc91283ee6740766eedb148",
+  "pins" : [
+    {
+      "identity" : "toast-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BastiaanJansen/toast-swift",
+      "state" : {
+        "revision" : "9a40b722b6eeb9683d47e3584501e81525741291",
+        "version" : "2.1.2"
+      }
+    }
+  ],
+  "version" : 3
+}
